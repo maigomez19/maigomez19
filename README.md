@@ -1,8 +1,14 @@
+<div align=center>
+  <img src="./animacion.png" alt="Animación retro cursor" height="200">
+</div>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23f77bb1&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola!+Soy+Mailen+Gomez;Diseñadora+y+Programadora+Web"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23ffffff&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola!+Soy+Mailen+Gomez;Diseñadora+y+Programadora+Web"></a>
 </p>
 
-### 💻 &nbsp;Lenguajes de Programación
+## 💻 &nbsp;Mis habilidades
+
+### Lenguajes de Programación
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -17,9 +23,13 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 
-### ✏️ &nbsp;Programas de Adobe
+### Programas de Adobe
 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![After Effects](https://img.shields.io/badge/-After_Effects-05122A?style=flat&logo=adobe-after-effects)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-05122A?style=flat&logo=adobe-xd)&nbsp;
+
+------
+
+<p>&copy; Mailen Gomez 2024. Todos los derechos reservados.</p>
