@@ -6,6 +6,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23ffffff&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola!+Soy+Mailen+Gomez;Diseñadora+y+Programadora+Web"></a>
 </p>
 
+## 💻 &nbsp;Sobre mi
+
+<p>Graduada en Diseño y Desarrollo Web, me apasiona la tecnología y crear soluciones innovadoras para simplificar
+las tareas diarias. Aspiro a encontrar un entorno donde pueda continuar adquiriendo nuevos conocimientos y
+habilidades.</p>
+
 ## 💻 &nbsp;Mis habilidades
 
 ### Lenguajes de Programación
@@ -30,6 +36,10 @@
 ![After Effects](https://img.shields.io/badge/-After_Effects-05122A?style=flat&logo=adobe-after-effects)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-05122A?style=flat&logo=adobe-xd)&nbsp;
 
+## 💻 &nbsp;¿Quieres contactarme?
+<p>Te invito a visitar mi perfil en <a target="_blank" href="https://www.linkedin.com/in/mailen-gomez19"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin"></img></a></p>
+<p>También puedes contactarme por <a target="_blank" href="mailto:maichu19.mg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail"></img></a></p> 
+
 ------
 
-<p>&copy; Mailen Gomez 2024. Todos los derechos reservados.</p>
+<p align="center">&copy; Mailen Gomez 2024. Todos los derechos reservados.</p>
