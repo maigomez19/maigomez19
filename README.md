@@ -29,7 +29,7 @@
 
 ------
 
-**<p align="center"><img src="./star.png" alt="Icono estrella" height="15">¿Quieres contactarme? 
+**<p align="center"><img src="./star.png" alt="Icono estrella" height="15">Datos de contacto:
   <a target="_blank" href="https://www.linkedin.com/in/mailen-gomez19"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin"></img></a> 
   <a target="_blank" href="mailto:maichu19.mg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail"></img></a>
   <img src="./star.png" alt="Icono estrella" height="15"></p>**
